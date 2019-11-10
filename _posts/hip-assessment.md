@@ -1,3 +1,10 @@
+---
+date: 2019-11-7
+tag:
+ - exercise
+author: Hilary Wilson
+---
+
 L) innominate posterior rotation
 
 Slight posterior tilt
@@ -55,5 +62,5 @@ Daily practice: finding link between ribs and pelvis, reducing rib flare
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIyODg2MTNdfQ==
+eyJoaXN0b3J5IjpbMTYwMjg1NjUxOSwtMTM1MjI4ODYxM119
 -->
