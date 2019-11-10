@@ -1,10 +1,10 @@
 {
-  "name": "your-name-app",
+  "name": "orca-fit-kb",
   "version": "0.1.0",
-  "description": "Descripton your webapp",
+  "description": "Description your webapp",
   "scripts": {
-    "dev": "node_modules/.bin/vuepress dev src",
-    "build": "node_modules/.bin/vuepress build src"
+    "dev": "node_modules/.bin/vuepress dev",
+    "build": "node_modules/.bin/vuepress build"
   },
   "keywords": [
     "vuepress",
@@ -20,13 +20,13 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://github.com/ktquez/vuepress-theme-ktquez#readme",
+  "homepage": "https://github.com",
   "devDependencies": {
     "@vuepress/plugin-blog": "^1.5.1",
-    "@vuepress/theme-blog": "^1.3.2"
+    "@vuepress/theme-blog": "^1.3.2",
+    "vuepress": "^1.2.0"
   },
   "dependencies": {
-    "esm": "^3.2.25",
-    "vuepress": "^1.2.0"
+    "esm": "^3.2.25"
   }
 }

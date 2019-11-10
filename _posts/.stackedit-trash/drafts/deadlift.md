@@ -21,7 +21,7 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
+## Deadlift
 ### Muscles
 ### Synonyms
 ### Equipment needed

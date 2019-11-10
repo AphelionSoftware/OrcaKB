@@ -3,7 +3,7 @@ view: post
 layout: post                          # Only in unique we use the "layout: post"
 lang: en                              # Lang is required
 author: mgs
-title: Pushup variation
+title: Weight bear single arm
 description: 
 excerpt: 
 cover: false                          # Leave false if the post does not have cover image, if there is set to true

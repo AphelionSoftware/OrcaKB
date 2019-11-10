@@ -1,9 +1,10 @@
 ---
 view: post
+date: 2019-11-7
 layout: post                          # Only in unique we use the "layout: post"
 lang: en                              # Lang is required
 author: mgs
-title: Pushup variation
+title: Arnie Press
 description: 
 excerpt: 
 cover: false                          # Leave false if the post does not have cover image, if there is set to true
@@ -12,6 +13,7 @@ demo:
 categories:
   - exercise
 tags: 
+- exercise
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
 meta:                                 # If you have cover image
@@ -21,7 +23,7 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
+## Arnie Press
 ### Muscles
   - anterior deltoid
   - lateral deltoid

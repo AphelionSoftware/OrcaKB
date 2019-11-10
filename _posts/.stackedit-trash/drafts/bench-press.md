@@ -3,7 +3,7 @@ view: post
 layout: post                          # Only in unique we use the "layout: post"
 lang: en                              # Lang is required
 author: mgs
-title: Pushup variation
+title: Bench press
 description: 
 excerpt: 
 cover: false                          # Leave false if the post does not have cover image, if there is set to true
@@ -21,7 +21,7 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
+## Bench press
 ### Muscles
 ### Synonyms
 ### Equipment needed

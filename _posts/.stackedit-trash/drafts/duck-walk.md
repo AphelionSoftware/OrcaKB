@@ -24,7 +24,7 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
+## Duck walk
 ### Muscles
 ### Synonyms
 ### Equipment needed#
