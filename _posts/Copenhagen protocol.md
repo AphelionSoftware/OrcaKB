@@ -11,3 +11,8 @@ author: Hilary Wilson
 
 ### Links
 [Random article](https://simplifaster.com/articles/copenhagen-adduction-exercise-groin-injuries/)
+Copenhagen protocol
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODU5MzYzMTg4XX0=
+-->
