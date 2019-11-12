@@ -1,5 +1,3 @@
-
-
 ---
 author: mgs
 title: Glute ball wall press
@@ -21,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTU2NzA2M119
+eyJoaXN0b3J5IjpbNjI5MzU3MzFdfQ==
 -->
