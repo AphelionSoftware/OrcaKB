@@ -1,5 +1,3 @@
-
-
 ---
 author: mgs
 title: Dragon squat
@@ -21,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5OTk4NzI3XX0=
+eyJoaXN0b3J5IjpbLTE5Nzk3MjkxMDldfQ==
 -->
