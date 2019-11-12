@@ -1,4 +1,3 @@
-
 ---
 date: 2019-11-12
 title: Hip lying rotations
@@ -24,5 +23,5 @@ Lying down on back, with leg up at 90 degree, and knee bent at 90 degree, have b
 ### Studies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTE1NzQwM119
+eyJoaXN0b3J5IjpbLTQyMTAwMzk3XX0=
 -->
