@@ -1,11 +1,11 @@
 ---
 author: mgs
+date: 2019-11-12
 title: Duck walk
 description: 
 summary: 
 tags: 
-date: 2019-11-12
-
+-	 exercise
 ---
 ### Muscles
 ### Synonyms
@@ -19,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI1OTU1MDBdfQ==
+eyJoaXN0b3J5IjpbMjM3NTQ1MzE5XX0=
 -->
