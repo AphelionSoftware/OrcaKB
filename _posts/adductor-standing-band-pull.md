@@ -15,14 +15,9 @@ equipment:
 	  - magnus
 	  - longus
 ### Synonyms
-### Equipment needed
-- Floor slider plate
 #### Alternatives
--	Both legs straight
--	Stationary leg straight, moving leg bent
--	Stationary leg bent, moving leg straight
 ### Description
-Keep one leg stationary, move other leg away, then return it
+Standing up, with band round ankle, and around bar at ankle height, crossing over
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions
@@ -31,5 +26,5 @@ Keep one leg stationary, move other leg away, then return it
 ### Studies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzA2MTM2NF19
+eyJoaXN0b3J5IjpbOTU5MTA3NjE0XX0=
 -->
