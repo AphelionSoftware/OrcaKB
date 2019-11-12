@@ -37,7 +37,7 @@ module.exports = {
                         // Path of the 'entry page' (or 'list page')
                         path: '/',
                         itemLayout: 'Post',
-                        itemPermalink: '/:year/:month/:day/:slug',
+                        itemPermalink: '/:slug',
                         pagination: {
                             lengthPerPage: 20,
                         },
