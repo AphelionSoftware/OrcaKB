@@ -1,4 +1,3 @@
-
 ---
 date: 2019-11-12
 title: Deep wide squat, back and forth
@@ -23,5 +22,5 @@ equipment:
 ### Studies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDU1NTExMV19
+eyJoaXN0b3J5IjpbNjMzMTMwMjE5XX0=
 -->
