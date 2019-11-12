@@ -1,11 +1,11 @@
 ---
 author: mgs
+date: 2019-11-12
 title: Dragon squat
 description: 
 summary: 
 tags: 
-date: 2019-11-12
-
+-	exercise
 ---
 ### Muscles
 ### Synonyms
@@ -19,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk3MjkxMDldfQ==
+eyJoaXN0b3J5IjpbLTEyMDk1Nzc2NTRdfQ==
 -->
