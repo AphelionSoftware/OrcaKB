@@ -1,5 +1,3 @@
-
-
 ---
 author: mgs
 title: Downward dog
@@ -21,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzgwNzkzMl19
+eyJoaXN0b3J5IjpbODYxNDMxNTI4XX0=
 -->
