@@ -1,4 +1,3 @@
-
 ---
 author: mgs
 title: Arnie press
@@ -30,5 +29,5 @@ Standing variation
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTczMjI3OV19
+eyJoaXN0b3J5IjpbOTIxNTEyMjI5XX0=
 -->
