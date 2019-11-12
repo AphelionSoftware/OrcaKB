@@ -17,7 +17,7 @@ equipment:
 ### Synonyms
 #### Alternatives
 ### Description
-Standing up, with band round ankle, and around bar at ankle height, crossing over
+Standing up, with band round ankle, and around bar at ankle height, on the foot on the side of the bar. Move the foot in front of, and then behind
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions
@@ -26,5 +26,5 @@ Standing up, with band round ankle, and around bar at ankle height, crossing ove
 ### Studies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MTA3NjE0XX0=
+eyJoaXN0b3J5IjpbLTExMDQ3MTk1NDddfQ==
 -->
