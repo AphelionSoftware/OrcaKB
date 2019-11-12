@@ -1,4 +1,3 @@
-
 ---
 author: mgs
 title: Single Leg Squat step down
@@ -20,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTUzODkyNl19
+eyJoaXN0b3J5IjpbLTE3NzQzMTc4NTJdfQ==
 -->
