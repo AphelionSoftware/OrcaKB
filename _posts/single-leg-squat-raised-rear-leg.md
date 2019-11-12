@@ -1,4 +1,3 @@
-
 ---
 author: mgs
 title: Single Leg Squat raised rear leg
@@ -20,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDg1MjQ1OF19
+eyJoaXN0b3J5IjpbLTk4MzQ5MDRdfQ==
 -->
