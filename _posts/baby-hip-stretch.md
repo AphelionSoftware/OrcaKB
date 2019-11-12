@@ -5,8 +5,8 @@ description:
 summary: 
 tags: 
 date: 2019-11-12
+
 ---
-## Exercise name
 ### Muscles
 ### Synonyms
 ### Equipment needed
@@ -19,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjM3NDk2M119
+eyJoaXN0b3J5IjpbLTI0NDQ4MTI3Nl19
 -->
