@@ -36,3 +36,6 @@ meta:                                 # If you have cover image
 ### Links
 http://posturedirect.com/how-to-fix-a-winged-scapula
 ### Studies
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMyNDMxODMyMl19
+-->
