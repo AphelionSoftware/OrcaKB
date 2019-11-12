@@ -1,5 +1,3 @@
-
-
 ---
 author: mgs
 title: Duck walk
@@ -21,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDcyMjI5Nl19
+eyJoaXN0b3J5IjpbLTE1NTI1OTU1MDBdfQ==
 -->
