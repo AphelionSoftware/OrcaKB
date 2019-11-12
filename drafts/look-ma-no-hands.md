@@ -32,6 +32,3 @@ meta:                                 # If you have cover image
 ### Cues
 ### Links
 ### Studies
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQwOTM1MV19
--->

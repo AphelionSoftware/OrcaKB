@@ -33,6 +33,3 @@ meta:                                 # If you have cover image
 - Cable machine
 #### Alternatives
 - Thera band
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQxMTgxNDRdfQ==
--->
