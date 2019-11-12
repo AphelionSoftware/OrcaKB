@@ -5,7 +5,7 @@ title: Arnie press
 description: 
 summary: 
 tags: 
-
+- exercise
 ---
 ## Arnie Press
 ### Muscles

@@ -4,7 +4,6 @@ title: Glute ball wall press
 description: 
 summary: 
 tags: 
-tags: 
 -	 exercise
 ---
 ### Muscles

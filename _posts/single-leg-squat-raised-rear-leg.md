@@ -4,6 +4,7 @@ title: Single Leg Squat raised rear leg
 description: 
 summary: 
 tags: 
+-   exercise
 date: 2019-11-12
 
 ---
