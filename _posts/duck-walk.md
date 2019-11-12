@@ -12,6 +12,9 @@ demo:
 categories:
   - exercise
 tags: 
+  - exercise
+  - hips
+  - bodyweight
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
 meta:                                 # If you have cover image
@@ -21,10 +24,11 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
+## Duck walk
 ### Muscles
 ### Synonyms
-### Equipment needed
+### Equipment needed#
+- bodyweight
 #### Alternatives
 ### Description
 ### Progressions
@@ -33,3 +37,6 @@ meta:                                 # If you have cover image
 ### Cues
 ### Links
 ### Studies
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg2NTc2MzI0Ml19
+-->
