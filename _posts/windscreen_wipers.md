@@ -1,11 +1,11 @@
 ---
+date: 2019-11-7
 author: mgs
 title: Windscreen wipers
 description: 
 summary: 
 tags: 
-date: 2019-11-12
-
+- exercise
 ---
 ### Muscles
 ### Synonyms
@@ -19,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NjAyMzYwXX0=
+eyJoaXN0b3J5IjpbMTY5NTgxODM0NV19
 -->
