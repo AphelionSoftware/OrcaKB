@@ -4,8 +4,7 @@ title: Single Leg Squat step down
 description: 
 summary: 
 tags: 
-date: 2019-11-12
-
+-	 exercise
 ---
 ### Muscles
 ### Synonyms
@@ -19,5 +18,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQzMTc4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MTk5MDM0NzhdfQ==
 -->
