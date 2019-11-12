@@ -4,8 +4,8 @@ title: Glute ball wall press
 description: 
 summary: 
 tags: 
-date: 2019-11-12
-
+tags: 
+-	 exercise
 ---
 ### Muscles
 ### Synonyms
@@ -19,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MzU3MzFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzkzNzM2Nl19
 -->
