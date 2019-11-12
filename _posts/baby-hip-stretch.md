@@ -1,6 +1,6 @@
 ---
 author: mgs
-title:
+title: Baby Hip Stretch
 description: 
 summary: 
 tags: 
@@ -19,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDQ4MTI3Nl19
+eyJoaXN0b3J5IjpbMTg2MTQwMzQxNl19
 -->
