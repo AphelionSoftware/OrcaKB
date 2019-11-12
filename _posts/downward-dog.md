@@ -1,10 +1,11 @@
 ---
 author: mgs
+date: 2019-11-12
 title: Downward dog
 description: 
 summary: 
 tags: 
-date: 2019-11-12
+-	exercise
 ---
 ### Muscles
 ### Synonyms
@@ -18,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzMyNDY1MF19
+eyJoaXN0b3J5IjpbLTE0MDU4OTkyMTldfQ==
 -->
