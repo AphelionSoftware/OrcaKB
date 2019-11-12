@@ -1,4 +1,3 @@
-
 ---
 date: 2019-11-12
 title: Adductor standing band pull
@@ -26,5 +25,5 @@ Standing up, with band round ankle, and around bar at ankle height, on the foot 
 ### Studies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Njk4NTU4OF19
+eyJoaXN0b3J5IjpbMTc2NDMwOTg1OF19
 -->

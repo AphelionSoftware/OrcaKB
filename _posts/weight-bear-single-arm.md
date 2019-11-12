@@ -21,7 +21,6 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
 ### Muscles
 - Serratus Anterior
 ### Synonyms
@@ -36,3 +35,6 @@ meta:                                 # If you have cover image
 ### Links
 http://posturedirect.com/how-to-fix-a-winged-scapula
 ### Studies
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMzNDM0ODE4M119
+-->
