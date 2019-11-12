@@ -2,7 +2,7 @@
 
 ---
 author: mgs
-title: Glute ball
+title: Glute ball wall press
 description: 
 summary: 
 tags: 
@@ -21,5 +21,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY1NzkzNTJdfQ==
+eyJoaXN0b3J5IjpbMTMyOTU2NzA2M119
 -->
