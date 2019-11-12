@@ -17,7 +17,7 @@ equipment:
 ### Synonyms
 #### Alternatives
 ### Description
-Standing up, with band round ankle, and around bar at ankle height, on the foot on the side of the bar. Move the foot in front of, and then behind
+Standing up, with band round ankle, and around bar at ankle height, on the foot on the side of the bar. Move the foot in front of, and then behind the other leg
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions
@@ -26,5 +26,5 @@ Standing up, with band round ankle, and around bar at ankle height, on the foot 
 ### Studies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ3MTk1NDddfQ==
+eyJoaXN0b3J5IjpbMTM2Njk4NTU4OF19
 -->
