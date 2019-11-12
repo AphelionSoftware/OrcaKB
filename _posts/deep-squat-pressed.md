@@ -1,5 +1,3 @@
-
-
 ---
 author: mgs
 title: Deep squat hand press
@@ -21,5 +19,5 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDA1ODY4NCwtMzM3NzI3OTMzXX0=
+eyJoaXN0b3J5IjpbLTE3MDY2OTAwMTYsLTMzNzcyNzkzM119
 -->
