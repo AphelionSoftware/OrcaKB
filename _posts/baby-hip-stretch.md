@@ -1,25 +1,10 @@
 ---
-view: post
-layout: post                          # Only in unique we use the "layout: post"
-lang: en                              # Lang is required
 author: mgs
-title: Pushup variation
+title:
 description: 
-excerpt: 
-cover: false                          # Leave false if the post does not have cover image, if there is set to true
-coverAlt: 
-demo: 
-categories:
-  - exercise
+summary: 
 tags: 
-created_at: 2019-09-29 07:07
-updated_at: 2019-09-29 07:07
-meta:                                 # If you have cover image
-  - property: og:image
-    content:  
-  - name: twitter:image
-    content: 
-  - type:  
+date: 2019-11-12
 ---
 ## Exercise name
 ### Muscles
@@ -34,5 +19,5 @@ meta:                                 # If you have cover image
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODkwMDcyOF19
+eyJoaXN0b3J5IjpbLTI2MjM3NDk2M119
 -->
