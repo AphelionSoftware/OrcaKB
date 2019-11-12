@@ -1,10 +1,10 @@
 ---
+date: 2019-11-12
 author: mgs
 title: Arnie press
 description: 
 summary: 
 tags: 
-date: 2019-11-12
 
 ---
 ## Arnie Press
@@ -29,5 +29,5 @@ Standing variation
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNTEyMjI5XX0=
+eyJoaXN0b3J5IjpbLTkwODE0MjEwMV19
 -->
