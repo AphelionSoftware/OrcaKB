@@ -2,7 +2,7 @@ module.exports = {
     // theme: require.resolve('@vuepress/theme-blog'),
     // theme: '@vuepress/theme-blog',
     // theme: require.resolve('theme-kb'),
-    theme: 'vuepress-theme-kb',
+    theme: 'vuepress-theme-blog',
     themeConfig: {
         // Please keep looking down to see the available options
         nav: [
