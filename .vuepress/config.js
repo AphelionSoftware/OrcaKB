@@ -5,6 +5,7 @@ module.exports = {
     theme: 'vuepress-theme-kb',
     themeConfig: {
         // Please keep looking down to see the available options
+        paginationComponent: 'SimplePagination',
         nav: [
             {
               text: 'Home',
