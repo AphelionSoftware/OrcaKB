@@ -7,7 +7,6 @@ summary:
 tags: 
 - exercise
 ---
-## 
 ### Muscles
 ### Synonyms
 ### Equipment needed
@@ -20,5 +19,5 @@ tags:
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjMxNTU3Ml19
+eyJoaXN0b3J5IjpbLTM2MTA2NTEwMl19
 -->
