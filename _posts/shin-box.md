@@ -1,7 +1,7 @@
 ---
 date: 
 author: mgs
-title: 
+title: Shin box
 description: 
 summary: 
 tags: 
@@ -34,5 +34,6 @@ Windscreen wipers with 1 or 2 hands on ground behind you
 ### Links
 [Video of some versions](https://www.youtube.com/watch?v=sid4PNeMjSI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIwNjAyNTMsMjMwNTk4NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjcwMzcwODAsLTEyNTIwNjAyNTMsMj
+MwNTk4NDRdfQ==
 -->
