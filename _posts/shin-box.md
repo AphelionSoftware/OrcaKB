@@ -20,7 +20,12 @@ Start with sitting on the ground, knees folded the same way
 
 In the next stage, stand up out of the bottom position
 
-### Al
+### Progressions
+#### Semi stand
+From the flat position, semi -stand forwards into a kneeling piotii
+#### Semi stand to backwards stretch
+Do a semi stand to kneeling, then reach back and stretch out
+![enter image description here](https://tse3.mm.bing.net/th/id/OIP.IsptxR5izzTFmmXGMdSxYQHaEK?w=296&h=165&c=7&o=5&pid=1.7)
 #### Regressed versions (Progressions to get to this movement)
 Windscreen wipers with 1 or 2 hands on ground behind you
 #### Progressive versions
@@ -28,5 +33,5 @@ Windscreen wipers with 1 or 2 hands on ground behind you
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTMzMjUxN119
+eyJoaXN0b3J5IjpbMTQyODMxMDg5Ml19
 -->
