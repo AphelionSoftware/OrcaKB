@@ -7,7 +7,6 @@ summary:
 tags: 
 - exercise
 ---
-## 
 ### Muscles
 - Hip internal rotators
 - Iliopsoas
@@ -15,7 +14,8 @@ tags:
 ### Synonyms
 - windscreen wiper
 ### Description
-Start with sitting on the ground, knees folded the same way 
+Start with sitting on the ground, knees folded the same way. 
+This can be done with both hands for support, one hand or neither hands. Experiment and use all of these
 ![Windscreen wiper](https://cdn.shopify.com/s/files/1/1122/2726/files/8-_Windshield_Wiper.gif?6775515921855453699)
 
 In the next stage, stand up out of the bottom position
@@ -32,7 +32,7 @@ Do a semi stand to kneeling, then reach back and stretch out
 #### Regressed versions (Progressions to get to this movement)
 Windscreen wipers with 1 or 2 hands on ground behind you
 ### Links
-
+[Video of some versions](https://www.youtube.com/watch?v=sid4PNeMjSI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNTk4NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTIwNjAyNTMsMjMwNTk4NDRdfQ==
 -->
