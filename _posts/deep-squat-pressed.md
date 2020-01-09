@@ -7,12 +7,13 @@ tags:
 date: 2019-11-12
 
 ---
-## Deep Squat stretch - hand pr
+## Deep Squat stretch - hand press
 ### Muscles
 ### Synonyms
 ### Equipment needed
 #### Alternatives
 ### Description
+Go into a squat, place elbows on inside of knees, press hands together - palm to palm. Rock back and forth to flex out legs
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions
@@ -20,6 +21,6 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4OTgzNzIzLC0xNzA2NjkwMDE2LC0zMz
-c3Mjc5MzNdfQ==
+eyJoaXN0b3J5IjpbLTgwMDYxNTA2MCwtMTcwNjY5MDAxNiwtMz
+M3NzI3OTMzXX0=
 -->
