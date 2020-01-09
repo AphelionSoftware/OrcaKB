@@ -8,6 +8,10 @@ tags:
 - workout
 ---
 # Leg day (Mobility)
+|Exercise |  |
+|--|--|
+|  |  |
+
 ## Cossack squats
 [Cossack squats](/cossack-squats)
 ## Deep squat pressed
@@ -18,12 +22,14 @@ tags:
 [single-leg-box-squat](/single-leg-box-squat)
 ## Copenhagen protocol
 [copenhagen-protocol](/copenhagen-protocol)
+## Sliders
+[
 ## Single leg hip bridge
 [single-leg-hip-bridge](/single-leg-hip-bridge)
 ## Shin box
 [shin-box](/shin-box)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc1MTQ0OTksLTk3MDEzNDU4NCwxNj
-Y0ODE3ODIyXX0=
+eyJoaXN0b3J5IjpbLTQ5MjY4MzIyLC0xNTk3NTE0NDk5LC05Nz
+AxMzQ1ODQsMTY2NDgxNzgyMl19
 -->
