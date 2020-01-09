@@ -16,11 +16,11 @@ tags:
 #### Alternatives
 - Single leg TRX squat
 ### Description
-Stand in front of a bench / box, holding a kettlebell or dumbell in front of you
+Sit on a bench / box, holding a kettlebell or dumbell in front of you. Extend one leg slightly in front of you off the ground, and push the kettlebell further away from yo, and squat backwards til 
 ### Progressions
 ### Cues
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTc0MzMyNF19
+eyJoaXN0b3J5IjpbLTEyMzQ0NDUxNjUsLTg1NTc0MzMyNF19
 -->
