@@ -2,7 +2,7 @@
 ---
 date: 2019-11-12
 author: mgs
-title: Arnie press
+title: Lunge Matrix
 description: 
 summary: 
 tags: 
@@ -28,5 +28,5 @@ The matrix is 5 types of lunges, 10 reps of each
 ### Links
 [Video of matrix](https://www.youtube.com/watch?v=GJo7_MiRLkU&feature=youtu.be)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODY4NzA5OF19
+eyJoaXN0b3J5IjpbLTE1NTgzODM0MDBdfQ==
 -->
