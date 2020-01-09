@@ -24,7 +24,8 @@ tags:
 #### Progressive versions
 ### Cues
 ### Links
+[Video of matrix](https://www.youtube.com/watch?v=GJo7_MiRLkU&feature=youtu.be)
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTYzMTU0Ml19
+eyJoaXN0b3J5IjpbLTE4OTUwMTU4MjRdfQ==
 -->
