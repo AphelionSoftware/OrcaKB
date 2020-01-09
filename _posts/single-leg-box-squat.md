@@ -23,7 +23,7 @@ Image without a weight:
 ### Cues
 Make sure to keep your hips straight in the same way as if you were doing a two legged squat
 ### Links
-
+[https://www.coachmag.co.uk/bodyweight-exercises/6727/how-to-master-the-single-leg-squat](https://www.coachmag.co.uk/bodyweight-exercises/6727/how-to-master-the-single-leg-squat)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk5MDE3OSwtODU1NzQzMzI0XX0=
+eyJoaXN0b3J5IjpbLTE0MTU2MjIzMDAsLTg1NTc0MzMyNF19
 -->
