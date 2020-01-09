@@ -5,7 +5,7 @@ title: Single leg hip bridge
 description: 
 summary: 
 tags: 
-- exercise
+-	exercise
 ---
 ### Muscles
 - Gluteus Maximum
@@ -29,5 +29,5 @@ Foot hidden behind knee to ensure straightness
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODMzNDIxNl19
+eyJoaXN0b3J5IjpbOTM2NzI0MTAyXX0=
 -->
