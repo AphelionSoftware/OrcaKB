@@ -16,7 +16,8 @@ Hip thrust
 - Bench
 ### Description
 Place one foot on the bench, with the heel down (NOT foot flat, as it restricts hamstring involvement.
-In
+Other leg sitting on the ground, prep for exercise
+Extend other leg straight out above bench, then thrust up from hips and 
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 Leg flat on ground
@@ -25,5 +26,5 @@ Dig heel into bench
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkzNDU0MDhdfQ==
+eyJoaXN0b3J5IjpbMTg0MTI4NTcwNF19
 -->
