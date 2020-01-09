@@ -18,10 +18,9 @@ tags:
 |Sliders - extended leg bend|2 each|10|Each leg
 |Sliders - 45° stationary leg bend |2 each|10|Each leg
 |[single-leg-hip-bridge](/single-leg-hip-bridge)|3|6|15kg PowerBag
-## Shin box
-[shin-box](/shin-box)
+|[shin-box](/shin-box) - to stand and stretch|3|10 x 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQyMTkzMSwtMTU5NzUxNDQ5OSwtOT
-cwMTM0NTg0LDE2NjQ4MTc4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTY5MzQwNjgsLTE1OTc1MTQ0OTksLT
+k3MDEzNDU4NCwxNjY0ODE3ODIyXX0=
 -->
