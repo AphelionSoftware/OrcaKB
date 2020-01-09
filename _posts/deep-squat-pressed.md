@@ -7,6 +7,7 @@ tags:
 date: 2019-11-12
 
 ---
+## Deep Squat stretch - hand pr
 ### Muscles
 ### Synonyms
 ### Equipment needed
@@ -19,5 +20,6 @@ date: 2019-11-12
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY2OTAwMTYsLTMzNzcyNzkzM119
+eyJoaXN0b3J5IjpbODE4OTgzNzIzLC0xNzA2NjkwMDE2LC0zMz
+c3Mjc5MzNdfQ==
 -->
