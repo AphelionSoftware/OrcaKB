@@ -15,13 +15,15 @@ Hip thrust
 ### Equipment needed
 - Bench
 ### Description
+Place one foot on the bench, with the heel down (NOT foot flat, as it restricts hamstring involvement.
+In
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
-Single
-#### Progressive versions
+Leg flat on ground
 ### Cues
+Dig heel into bench 
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkyMzc0NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNTkzNDU0MDhdfQ==
 -->
