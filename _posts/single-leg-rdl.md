@@ -8,16 +8,22 @@ tags:
 - exercise
 ---
 ### Muscles
+- Gluteus maximus
+- Hamstring
 ### Synonyms
+-	Romanian dead lift
+-	Stiff leg deadlift
 ### Equipment needed
-#### Alternatives
+- Dumbell
+- Kettlebell
+- Barbell plate
 ### Description
-### Progressions
-#### Regressed versions (Progressions to get to this movement)
-#### Progressive versions
+Standing straight
 ### Cues
+-	Knee slightly bent
+-	Keep form rather than depth or weight
 ### Links
-### Studies
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NDAxOTkwXX0=
+eyJoaXN0b3J5IjpbLTEyOTgwODcyOTldfQ==
 -->
