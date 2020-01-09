@@ -12,6 +12,7 @@ tags:
 |--|--|--|--|
 |[Cossack squats](/cossack-squats)| 4 |20||
 |[deep-squat-pressed](/deep-squat-pressed)| 4 |10||
+|[single-leg-rdl](/single-leg-rdl)|3|8|8 kg|
 |[single-leg-squat-step-down](/single-leg-squat-step-down)|3 each|6|Each leg
 |[single-leg-box-squat](/single-leg-box-squat)|3 each|6|8 kg
 |[copenhagen-protocol](/copenhagen-protocol) (positives)|3 each|6
@@ -20,6 +21,6 @@ tags:
 |[single-leg-hip-bridge](/single-leg-hip-bridge)|3|6|15kg PowerBag
 |[shin-box](/shin-box) - to stand and stretch|3|10 x 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTgyNTg4MywtMTU5NzUxNDQ5OSwtOT
-cwMTM0NTg0LDE2NjQ4MTc4MjJdfQ==
+eyJoaXN0b3J5IjpbLTM4OTQxNDgyNiwxMzA1ODI1ODgzLC0xNT
+k3NTE0NDk5LC05NzAxMzQ1ODQsMTY2NDgxNzgyMl19
 -->
