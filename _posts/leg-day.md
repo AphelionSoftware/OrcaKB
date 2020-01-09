@@ -8,14 +8,15 @@ tags:
 - workout
 ---
 # Leg day (Mobility)
-|Exercise |  |
-|--|--|
-|  |  |
+|Exercise |Sets  |Reps  |  Weight|
+|--|--|--|--|
+|[Cossack squats](/cossack-squats)| 4 |20||
+|[Cossack squats](/cossack-squats)| 4 |20||
 
-## Cossack squats
-[Cossack squats](/cossack-squats)
+## 
+
 ## Deep squat pressed
-[deep-squat-pressed](/deep-squat-pressed)
+
 ## Single leg squat step down
 [single-leg-squat-step-down](/single-leg-squat-step-down)
 ## Single leg box squat
@@ -30,6 +31,6 @@ tags:
 [shin-box](/shin-box)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjY4MzIyLC0xNTk3NTE0NDk5LC05Nz
-AxMzQ1ODQsMTY2NDgxNzgyMl19
+eyJoaXN0b3J5IjpbLTE2NzE1MDIyNDgsLTE1OTc1MTQ0OTksLT
+k3MDEzNDU4NCwxNjY0ODE3ODIyXX0=
 -->
