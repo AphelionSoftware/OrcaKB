@@ -18,12 +18,14 @@ tags:
 - Kettlebell
 - Barbell plate
 ### Description
-Standing straight
+Standing straight with a kettlebell / dumbell / plate / other weight in one hand, slightly extend the leg on the same side behind you.
+Slowly lean forward while raising the rear leg 
+![enter image description here](https://askdeniza.files.wordpress.com/2015/08/single-leg-kettlebell-deadlift.jpg)
 ### Cues
 -	Knee slightly bent
 -	Keep form rather than depth or weight
 ### Links
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgwODcyOTldfQ==
+eyJoaXN0b3J5IjpbMTc1MTIxNjI2Nl19
 -->
