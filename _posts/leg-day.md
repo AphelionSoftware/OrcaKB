@@ -8,9 +8,14 @@ tags:
 - workout
 ---
 # Leg day (Mobility)
-
+## Cossack squats
+## Deep squat pressed
+## Single leg squat step down
+## Single leg box squat
+## s
+## Duck walk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjg4NzU2LDE2NjQ4MTc4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjQwOTU3ODYsMTY2NDgxNzgyMl19
 -->
