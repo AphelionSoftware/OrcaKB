@@ -15,8 +15,10 @@ tags:
 |Band shoulder circles (alternate front rear)|3|10|red then black|
 |Band sword draw|3 each arm|10|red|
 |Band hold - from above head|3|1 min|red/black/red|
-|Band flyes|||||
+|Band flyes|3|10|red/?|
+|Halo|3|10 each way|12 kg|
+|Ove
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjIwNjAxNF19
+eyJoaXN0b3J5IjpbLTU4MTA1NDE3Ml19
 -->
