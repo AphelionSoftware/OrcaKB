@@ -18,9 +18,12 @@ tags:
 |Band flyes|3|10|red/?|
 |Halo|3|10 each way|12 kg|
 |1 arm Overhead dumbell extension|3|6|18 kg|
-|T/W/Diamond
+|T/W/♦/Y|3|20||
+|Shoulder dislocations - on bench|3|10||
+|?Sleeper stretch|3|30 secs each side|
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTU1NzY0MF19
+eyJoaXN0b3J5IjpbMzE1OTUxODU3XX0=
 -->
