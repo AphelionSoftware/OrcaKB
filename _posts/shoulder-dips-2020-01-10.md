@@ -13,9 +13,10 @@ tags:
 |Band pulls - all around||||
 |Ring dips|4|6|
 |Band shoulder circles (alternate front rear)|3|10|red then black|
-|Band hold - from top of gead|3|1 min|red/black/red|
-||||||
+|Band sword draw|3 each arm|10|red|
+|Band hold - from above head|3|1 min|red/black/red|
+|Band flyes|||||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTI3MzY0NF19
+eyJoaXN0b3J5IjpbMTM0MjIwNjAxNF19
 -->
