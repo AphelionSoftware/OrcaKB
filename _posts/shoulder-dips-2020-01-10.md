@@ -7,7 +7,7 @@ summary:
 tags: 
 - workout
 ---
-# Leg day (Mobility)
+# Shoulders - dips
 |Exercise |Sets  |Reps  |  Weight|
 |--|--|--|--|
 |Band pulls - all around||||
@@ -17,8 +17,10 @@ tags:
 |Band hold - from above head|3|1 min|red/black/red|
 |Band flyes|3|10|red/?|
 |Halo|3|10 each way|12 kg|
-|Ove
+|1 arm Overhead dumbell extension|3|6|18 kg|
+|
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTA1NDE3Ml19
+eyJoaXN0b3J5IjpbMTYwNzk0MDUxXX0=
 -->
