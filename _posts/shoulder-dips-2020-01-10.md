@@ -18,9 +18,9 @@ tags:
 |Band flyes|3|10|red/?|
 |Halo|3|10 each way|12 kg|
 |1 arm Overhead dumbell extension|3|6|18 kg|
-|
+|T/W/Diamond
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzk0MDUxXX0=
+eyJoaXN0b3J5IjpbMjAzNTU1NzY0MF19
 -->
