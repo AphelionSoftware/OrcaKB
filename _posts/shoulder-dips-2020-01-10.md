@@ -1,7 +1,7 @@
 ---
 date: 2020-01-10
 author: mgs
-title: Shoulder - dips
+title: Shoulder - dips 2020-01-10
 description: 
 summary: 
 tags: 
@@ -25,5 +25,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1OTUxODU3XX0=
+eyJoaXN0b3J5IjpbODcyMDU0MTFdfQ==
 -->
