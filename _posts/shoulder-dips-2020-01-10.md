@@ -12,8 +12,10 @@ tags:
 |--|--|--|--|
 |Band pulls - all around||||
 |Ring dips|4|6|
-|band shoulder circles||||
+|Band shoulder circles (alternate front rear)|3|10|red then black|
+|Band hold - from top of gead|3|1 min|red/black/red|
+||||||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkzODc0NjJdfQ==
+eyJoaXN0b3J5IjpbLTc3NTI3MzY0NF19
 -->
