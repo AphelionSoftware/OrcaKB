@@ -10,7 +10,7 @@ tags:
 # Shoulders - dips
 |Exercise |Sets  |Reps  |  Weight|
 |--|--|--|--|
-|Band pulls - all around||||
+|Band pulls - all around warmup||||
 |Ring dips|4|6|
 |Band shoulder circles (alternate front rear)|3|10|red then black|
 |Band sword draw|3 each arm|10|red|
@@ -25,5 +25,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMDU0MTFdfQ==
+eyJoaXN0b3J5IjpbMTAwNzI3MDE5NV19
 -->
