@@ -6,8 +6,14 @@ description:
 summary: 
 tags: 
 - exercise
+- shoulder
+- rotator cuff
 ---
 ### Muscles
+-	deltoid
+-	teres
+-	infraspinatus
+-	supraspinatus
 ### Synonyms
 ### Equipment needed
 - bands
@@ -23,13 +29,10 @@ Repeat the other arm
 
 The second exercise is the exact reverse. You will need to use a lighter band for this exercise. 
 Even more so with this version, go slowly and move through the entire circle, keeping your hands from accelerating through different parts of the movement.
-Again, 10 forward circles, then
-### Progressions
-#### Regressed versions (Progressions to get to this movement)
-#### Progressive versions
+Again, 10 forward circles, then 10 back
 ### Cues
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzkxMDYzOF19
+eyJoaXN0b3J5IjpbLTE4NDc4MTM5MzhdfQ==
 -->
