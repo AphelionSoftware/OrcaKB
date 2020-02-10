@@ -20,7 +20,7 @@ tags:
 |Interal-rotation-press|3|6||
 |IR-High|3|8 each side|6|
 |[ER-High](/external-rotation-high) (IR but pulling back - isometric hold)|3|8 each side|6|
-|[ER-mid](/external-rotation-mid) (IR but pulling back)|3|8 each side|6|
+|[ER-mid](/external-rotation-mid) (IR but pulling back - isometric hold)|3|8 each side|6|
 |[Side lying external rotation](/side-lying-external-rotation)|3|8|8kg|
 |1 arm Overhead dumbell extension|3|6|18 kg|
 |T/W/♦/Y|3|20||
@@ -30,5 +30,5 @@ tags:
 
 [https://builtwithscience.com/rotator-cuff-exercises/](https://builtwithscience.com/rotator-cuff-exercises/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjkzMzI1NV19
+eyJoaXN0b3J5IjpbLTE0ODE4NDQwOThdfQ==
 -->
