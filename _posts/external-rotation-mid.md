@@ -8,6 +8,7 @@ tags:
 - exercise
 ---
 ### Muscles
+Teres minor - isometric
 ### Synonyms
 ### Equipment needed
 #### Alternatives
@@ -21,5 +22,5 @@ tags:
 ### Links
 ### Studies
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDMyNzY3MF19
+eyJoaXN0b3J5IjpbNzQ1NTQ5ODk2XX0=
 -->
