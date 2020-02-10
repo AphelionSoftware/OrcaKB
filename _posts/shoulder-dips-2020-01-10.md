@@ -13,6 +13,7 @@ tags:
 |Band pulls - all around warmup||||
 |Ring dips|4|6|
 |Band sword draw|3 each arm|10|red|
+|Woodchopper|3 each arm|10|red|
 |Pushup-plus|3|6||
 |External-rotation-press|3|6||
 |Interal-rotation-press|3|6||
@@ -23,8 +24,9 @@ tags:
 |Shoulder dislocations - on bench|3|10||
 |?Sleeper stretch|3|30 secs each side|
 
+[https://www.myodetox.com/learn/top-5-rotator-cuff-exercises-rotate-cuffs-properly/](https://www.myodetox.com/learn/top-5-rotator-cuff-exercises-rotate-cuffs-properly/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NTM4MTMwXX0=
+eyJoaXN0b3J5IjpbLTg0OTQwNDU1NV19
 -->
