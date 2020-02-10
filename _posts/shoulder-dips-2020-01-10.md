@@ -15,7 +15,7 @@ tags:
 |Band sword draw|3 each arm|10|red|
 |Pushup-plus|3|6||
 |Halo|3|10 each way|16 kg|
-|IR-High
+|IR-High|3|8 each side|6|
 |1 arm Overhead dumbell extension|3|6|18 kg|
 |T/W/♦/Y|3|20||
 |Shoulder dislocations - on bench|3|10||
@@ -24,5 +24,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3NTcxNTI3XX0=
+eyJoaXN0b3J5IjpbLTEyNzExNzk4OTJdfQ==
 -->
