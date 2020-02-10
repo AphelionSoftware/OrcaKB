@@ -13,12 +13,12 @@ tags:
 |Band pulls - all around warmup||||
 |Ring dips|4|6|
 |Band sword draw|3 each arm|10|red|
-|Woodchopper|3 each arm|10|red|
+|Woodchopper (reverse of band sword draw)|3 each arm|10|red|
 |Pushup-plus|3|6||
 |External-rotation-press|3|6||
 |Interal-rotation-press|3|6||
-|Halo|3|10 each way|16 kg|
 |IR-High|3|8 each side|6|
+|ER-High (IR but pulling back)|3|8 each side|6|
 |1 arm Overhead dumbell extension|3|6|18 kg|
 |T/W/♦/Y|3|20||
 |Shoulder dislocations - on bench|3|10||
@@ -28,5 +28,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTQwNDU1NV19
+eyJoaXN0b3J5IjpbLTk1MzA0MDYyNl19
 -->
