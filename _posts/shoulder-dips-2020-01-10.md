@@ -12,7 +12,7 @@ tags:
 |--|--|--|--|
 |Band pulls - all around warmup||||
 |Ring dips|4|6|
-|Band sword draw|3 each arm|10|red|
+|[Band sword draw](/band-shoulder-sword-draw)|3 each arm|10|red|
 |Woodchopper (reverse of band sword draw)|3 each arm|10|red|
 |Pushup-plus|3|6||
 |External-rotation-press|3|6||
@@ -28,5 +28,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzA0MDYyNl19
+eyJoaXN0b3J5IjpbMTYyODk3MjYzNV19
 -->
