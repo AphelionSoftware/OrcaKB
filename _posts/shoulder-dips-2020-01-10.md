@@ -14,6 +14,8 @@ tags:
 |Ring dips|4|6|
 |Band sword draw|3 each arm|10|red|
 |Pushup-plus|3|6||
+|External-rotation-press|3|6||
+|Interal-rotation-press|3|6||
 |Halo|3|10 each way|16 kg|
 |IR-High|3|8 each side|6|
 |1 arm Overhead dumbell extension|3|6|18 kg|
@@ -24,5 +26,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzExNzk4OTJdfQ==
+eyJoaXN0b3J5IjpbNTI3NTM4MTMwXX0=
 -->
