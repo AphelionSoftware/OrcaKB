@@ -19,6 +19,7 @@ tags:
 |Interal-rotation-press|3|6||
 |IR-High|3|8 each side|6|
 |ER-High (IR but pulling back)|3|8 each side|6|
+[
 |1 arm Overhead dumbell extension|3|6|18 kg|
 |T/W/♦/Y|3|20||
 |Shoulder dislocations - on bench|3|10||
@@ -28,5 +29,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUxMzc0MDZdfQ==
+eyJoaXN0b3J5IjpbLTEyODY3ODQ4MDVdfQ==
 -->
