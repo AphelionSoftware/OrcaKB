@@ -20,7 +20,6 @@ tags:
 ### Studies
 
 
-> Writte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg0MTExMDFdfQ==
+eyJoaXN0b3J5IjpbLTcyODc3MTI1MF19
 -->
