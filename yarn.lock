@@ -5904,9 +5904,9 @@ qs@^6.6.0:
   integrity sha512-Cxm7/SS/y/Z3MHWSxXb8lIFqgqBowP5JMlTUFyJN88y0SGQhVmZnqFK/PeuMX9LzUyWsqqhNxIyg0jlzq946yA==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^5.0.1:
   version "5.1.1"
@@ -7412,6 +7412,20 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
+vuepress-theme-kb@^1.3.3:
+  version "1.3.10"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-kb/-/vuepress-theme-kb-1.3.10.tgz#c1a62d9d7f78297629546bc121e0ecca94d99be2"
+  integrity sha512-4IKJ88RV5QgchQxvOIlbPORERor74hxpm4f75wLPQhRVGRmIR58OFLBPmgDh6sjBMv3+ak8STSEcIYn6PfTq/g==
+  dependencies:
+    "@vuepress/plugin-blog" "^1.5.1"
+    "@vuepress/plugin-medium-zoom" "1.0.0"
+    "@vuepress/plugin-nprogress" "1.0.0"
+    "@vuepress/plugin-pwa" "1.0.0"
+    "@vuepress/plugin-search" "1.0.0"
+    remove-markdown "^0.3.0"
+    vue-feather-icons "^4.21.0"
+    vuetify "^2.1.10"
+
 vuepress@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.2.0.tgz#2f2cdf337ad40a3e4866dfd33e97b840db386af7"
@@ -7422,6 +7436,11 @@ vuepress@^1.2.0:
     cac "^6.3.9"
     envinfo "^7.2.0"
     opencollective-postinstall "^2.0.2"
+
+vuetify@^2.1.10, vuetify@^2.1.9:
+  version "2.6.12"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.12.tgz#ef1871c720834d53e00fef142b9841a3e8c1a4f9"
+  integrity sha512-qe3hcMpWmT1O15tp+p65lOS7UKZ/hQYQktCsw9iXx2u3RwVbX6GR82gY2iROrKsiAzYDvMgrYxWQwY/pUfkekw==
 
 watchpack@^1.6.0:
   version "1.6.0"
